@@ -19,7 +19,7 @@ Output 3:
 
 */
 #include <stdio.h>
-int piv(int n,int *num)
+int piv(int n,int *num);
 int main()
 {
     int n;
