@@ -38,17 +38,16 @@ void main()
     }
 
     printf("Maximas of each subarray 0f %d size is: ",k);
-    
+
     for (int i = 0; i <= n - k; i++) 
     {
         int max = arr[i];
         for (int j = i + 1; j < i + k; j++) {
-            if (arr[j] > max) {
+            if (arr[j] > max) 
+            {
                 max = arr[j];
             }
         }
         printf("%d ", max);
     }
-
-
 }
