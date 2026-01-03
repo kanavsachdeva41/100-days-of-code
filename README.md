@@ -49,6 +49,6 @@ I’ve committed to coding *every day for the next 100 days* to improve my probl
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: (https://www.linkedin.com/in/kanavsachdeva376)
-- 🐙 GitHub: (https://www.linkedin.com/in/kanavsachdeva376)
+- 🐙 GitHub: (https://github.com/kanavsachdeva41)
 
 ⭐ If you like this journey, feel free to star the repo!
